@@ -1,0 +1,6 @@
+<form action="https://bitpay.com/checkout" method="post" >
+  <input type="hidden" name="action" value="checkout" />
+  <input type="hidden" name="posData" value="" />
+  <input type="hidden" name="data" value="L4ESbKpw9qiwGBQMXVS+6Vy6BMI9BBbgVgD3G1DPqejQZeUYYxpQcGgNOw2g7rRzBvk98yeQaGmCtf3JqbpZi2KOo9bVyu8quVb1F820hK1cE312ljGyfMC2aEmI0m6MXZ8JA16vDdeZzDRarmTlQ2ZZj+QLSAcHI8asU459JjxrZyPC5L4IHN00YxDZ9JDLYk5XHQWJcCQmcwF+exNE99sOGTNcnVx/cozD13qOIK8=" />
+  <input type="image" src="https://bitpay.com/img/button5.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+</form>
